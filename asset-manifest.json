@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Trips/static/css/main.a27509f0.chunk.css",
+    "main.js": "/Trips/static/js/main.689394b7.chunk.js",
+    "main.js.map": "/Trips/static/js/main.689394b7.chunk.js.map",
+    "runtime-main.js": "/Trips/static/js/runtime-main.dad0fd3c.js",
+    "runtime-main.js.map": "/Trips/static/js/runtime-main.dad0fd3c.js.map",
+    "static/js/2.eaa1d043.chunk.js": "/Trips/static/js/2.eaa1d043.chunk.js",
+    "static/js/2.eaa1d043.chunk.js.map": "/Trips/static/js/2.eaa1d043.chunk.js.map",
+    "index.html": "/Trips/index.html",
+    "precache-manifest.bd0f4439171237ae3802ee78f4ea114a.js": "/Trips/precache-manifest.bd0f4439171237ae3802ee78f4ea114a.js",
+    "service-worker.js": "/Trips/service-worker.js",
+    "static/css/main.a27509f0.chunk.css.map": "/Trips/static/css/main.a27509f0.chunk.css.map",
+    "static/js/2.eaa1d043.chunk.js.LICENSE.txt": "/Trips/static/js/2.eaa1d043.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Trips/static/media/gradient.f150e1b8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dad0fd3c.js",
+    "static/js/2.eaa1d043.chunk.js",
+    "static/css/main.a27509f0.chunk.css",
+    "static/js/main.689394b7.chunk.js"
+  ]
+}
